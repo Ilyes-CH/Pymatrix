@@ -30,7 +30,7 @@ def rain():
         for row in matrix:
             print(Fore.GREEN + ''.join(row) + Style.RESET_ALL)
 
-        time.sleep(0.01)
+        time.sleep(0.1)
 
         # Shift all the characters downwards
         for r in range(rows - 1, 0, -1):

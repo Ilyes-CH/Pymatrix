@@ -19,7 +19,7 @@ To use this script, you need to install the required packages: `colorama` and `k
 ```shell
 pip install colorama 
 pip install keyboard
-
+```
 
 ## Disclaimer
 

@@ -1,6 +1,6 @@
 # Pymatrix
 
-![Alt Text]((https://github.com/Ilyes-CH/Pymatrix/blob/master/matrix.png))
+![Alt Text]([https://github.com/Ilyes-CH/Pymatrix/blob/master/matrix.png])
 
 This is a Python script that generates a rain animation (matrix) effect in the terminal. It uses the `keyboard`, `random`, and `colorama` packages.
 

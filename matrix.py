@@ -6,8 +6,8 @@ from colorama import Fore, Style, init
 init(autoreset=True)  # Initialize colorama
 
 def rain():
-    columns = 200  # Number of columns in the terminal
-    rows = 100  # Number of rows in the terminal
+    columns = 200  
+    rows = 100  
 
     # Initialize an empty matrix
     
@@ -19,13 +19,11 @@ def rain():
         for i in lettter[0]:
             characters.append(i)
             
-        # Generate a new random character to fall from the top
         char = random.choice(characters)
 
-        # Randomly select a column for the character to fall
         col = random.randint(0, columns - 1)
 
-        # Set the character at the top of the column
+       
         matrix[0][col] = char
 
         # Print the matrix

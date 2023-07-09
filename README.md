@@ -22,6 +22,10 @@ pip install colorama
 pip install keyboard
 ```
 
+## Exit
+
+Just type c in your terminal and the program will terminate 
+
 ## Disclaimer
 
 This project is purely for educational and entertainment purposes. It is not associated with or intended to infringe upon any rights or copyrights of the movie "Matrix" or any related entities. The code and animations created here are a fun experiment and a demonstration of coding skills.
